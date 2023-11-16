@@ -61,7 +61,7 @@ highlighted_projects:
 # List of professional experience
 # Please focus on transferable skills, such as soft skills and data related skills
 professional_experience:
-  #Write your Jarvis role as a professional experience rather than training
+  #Write your Jarvis role as a professional experience rather than training.
   - title: "Research Analyst"
     company: "Buzzmetrics"
     duration: "2019-2021"
@@ -75,7 +75,8 @@ education:
     duration: "2021-2023"
     degree: "Master of Management, Business Data Analytics"
     department: "Odette School of Management"
-
+    awards_achievements:
+      - "GPA: 83.4/100"
   - school_name: "University of the Thai Chamber of Commerce"
     duration: "2014-2019"
     degree: "Bachelor of Business Administration, Marketing"
@@ -90,6 +91,4 @@ others:
     #category
   - title: "Activities"
     bullets:
-      - "Datacamp Python for Data Analytics Certificate"
-      - "Datacamp SQL for Data Analytics Certificate"
       - "Volunteer, ASO: Implemented recruitment plan for runners and walkers to join the Toronto Waterfront Marathon in October 2023. Researched potential donors and performed community outreach for fundraising."

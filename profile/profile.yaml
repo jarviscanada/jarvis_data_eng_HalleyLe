@@ -1,18 +1,19 @@
 # Preferred name (Characters only)
 name: "Halley Le"
 # Your GitHub repo root URL
-github_repo_root_url: https://github.com/jarviscanada/jarvis_data_eng_HalleyLe
+github_repo_root_url: https://github.com/jarviscanada/jarvis_data_eng_halleyle
 
 # Introduce yourself (80-120 words)
-# Suggestions: you should 
+# Suggestions: you should
 # 1) describe your academic and work experience (please focus on transferable/job related tech and soft skills only)
 # 2) explain your passion for the role you are looking for (e.g. developer, BSA, QA, tech support, etc.)
 # 3) mention what kind of role you are looking for
-# 4) briefly talk about your qualifications (soft and tech) to justify why the hiring manager should hire your 
+# 4) briefly talk about your qualifications (soft and tech) to justify why the hiring manager should hire your
 summary: A recent graduate in Business Data Analytics with 2 years of work experience in business intelligence and data analysis. Proficient in Agile/Scrum methodologies, project management and customer service. Well-equipped with technical skills for data analysis including Python, R, and SQL. Expertise covers the design, development, implementation and testing of applications and system. Seeking a dynamic role as a Business System Analyst, where my technical acumen and collaborative skills can bridge the gap between business requirements and technical solutions.
+
 skills:
-  # Please include 
-  #     1)soft skills (e.g. elicitation, communicaiton, collaberation, interpersonal, etc ) 
+  # Please include
+  #     1)soft skills (e.g. elicitation, communicaiton, collaberation, interpersonal, etc )
   #     2) business tools (such as Excel, Viso, etc.)
   Business Skills:
     - Project Management (Agile/Scrum, Jira, Notion)
@@ -49,7 +50,7 @@ jarvis_projects:
 # List of personal or academic projects
 # Please focus on transferable skills, such as soft skills and data related skills
 highlighted_projects:
-    #project name
+  #project name
   - name: "Assessing the Feasibility of USA and Canada's Goal on Transitioning to Electric Vehicles (2022)"
     #URL is optional
     git_url: "https://github.com/jarviscanada/jarvis_profile_builder"
@@ -57,17 +58,22 @@ highlighted_projects:
     description: Conducted market research and aggregated data from multiple public datasets using Excel. Used Tableau to detect EV sales trend in the USA and Canada, analyzed and created visualizations of greenhouse gas emissions, charging stations, tax incentives to evaluate the feasibility and popularity of EV in the US and Canada. Created dashboards and story to convey findings and made presentation to audience.
   - name: "Analysis of Internet Past Use in Canada (2022)"
     git_url:
-    description: Used R and RStudio to conduct exploratory data analysis and hypothesis testing on Canadian Internet Use Survey to explore the demographic and behavior of Internet past users, and published report with R Markdown.
+    description: Used R and RStudio to conduct exploratory data analysis and hypothesis testing on Canadian Internet Use Survey, explored the demographic and behavior of former Internet users, and published report with R Markdown.
+
 # List of professional experience
 # Please focus on transferable skills, such as soft skills and data related skills
 professional_experience:
   #Write your Jarvis role as a professional experience rather than training.
+  - title: "Business System Analyst"
+    company: "Jarvis"
+    duration: "2023-present"
+    # The project description must start with an action verb (https://bit.ly/3guO98u)
+    # Avoid the following terms: training, learning, etc. Instead, you should focus on the work, such as worked on XYY; Wrote ABC document; Analyzed QWE project;
+    description: "Donec mattis sed justo et sagittis. Vestibulum lacinia nulla ipsum. Curabitur imperdiet nibh vitae leo lacinia laoreet. Nullam accumsan, lectus ut maximus ultricies, augue justo egestas mi, vel bibendum felis."
   - title: "Research Analyst"
     company: "Buzzmetrics"
     duration: "2019-2021"
-    # The project description must start with an action verb (https://bit.ly/3guO98u)
-    # Avoid the following terms: training, learning, etc. Instead, you should focus on the work, such as worked on XYY; Wrote ABC document; Analyzed QWE project;
-    description: "Oversaw full project lifecycle, utilizing JIRA for create and update project documents including scope or work, deliverables, quotations, team involved, and contract status. Used Excel to analyze up to 100,000 social buzz per report, extracting insights, evaluating marketing performance, and delivering strategic recommendations. Generated 40+ brand tracking and campaign tracking reports using PowerPoint and Canva. Led a data team of 6 Content Analysts to set up process of cleansing, classifying and labeling data, creating timeline and schedule to keep track of the progress, achieving 100% on-time report delivery. Designed and maintained an interactive SocialHeat dashboard, enabling real-time tracking of client social media activities. Rapidly addressed client inquiries, creating urgency-based technical issue tickets for swift resolution"
+    description: "Oversaw full project lifecycle, utilizing Jira for create and update project documents including scope or work, deliverables, quotations, team involved, and contract status. Used Excel to analyze up to 100,000 social buzz per report, extracting insights, evaluating marketing performance, and delivering strategic recommendations. Generated 40+ brand tracking and campaign tracking reports using PowerPoint and Canva. Led a data team of 6 Content Analysts to set up process of cleansing, classifying and labeling data, creating timeline and schedule to keep track of the progress, achieving 100% on-time report delivery. Designed and maintained an interactive SocialHeat dashboard, enabling real-time tracking of client social media activities. Rapidly addressed client inquiries, creating urgency-based technical issue tickets for swift resolution."
 
 #List of edcuation
 education:
@@ -75,20 +81,30 @@ education:
     duration: "2021-2023"
     degree: "Master of Management, Business Data Analytics"
     department: "Odette School of Management"
+    # optional
     awards_achievements:
-      - "GPA: 83.4/100"
+    #  - "Scholarship"
+    #  - "Dean's List (2015, 2016): Ut enim ad minim veniam"
+    #  - "GPA: 3.8/4.0"
   - school_name: "University of the Thai Chamber of Commerce"
     duration: "2014-2019"
     degree: "Bachelor of Business Administration, Marketing"
     department: "International School of Management"
     # optional
     awards_achievements:
-      - "UTCC Gold Scholarship"
-      - "Dean's List (2015, 2016, 2017, 2018)"
+    #  - "Scholarship"
+    #  - "Dean's List (2015, 2016): Ut enim ad minim veniam"
+    #  - "GPA: 3.8/4.0"
 
 #Optional section
 others:
-    #category
-  - title: "Activities"
+  #category
+  - title: "Certificates"
+    #list of items
+    bullets:
+      - "Datacamp Python for Data Analytics (2023)"
+      - "Datacamp SQL for Data Analytics (2023)"
+
+  - title: "Activities/Hobbies"
     bullets:
       - "Volunteer, ASO: Implemented recruitment plan for runners and walkers to join the Toronto Waterfront Marathon in October 2023. Researched potential donors and performed community outreach for fundraising."

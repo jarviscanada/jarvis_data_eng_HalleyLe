@@ -297,4 +297,3 @@ FROM cd.members
 GROUP BY letter
 ORDER BY letter;
 ```
-EOF

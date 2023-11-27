@@ -19,12 +19,10 @@
   "highlighted_projects": [
     {
       "description": "Conducted market research and aggregated data from multiple public datasets using Excel. Used Tableau to detect EV sales trend in the USA and Canada, analyzed and created visualizations of greenhouse gas emissions, charging stations, tax incentives to evaluate the feasibility and popularity of EV in the US and Canada. Created dashboards and story to convey findings and made presentation to audience.",
-      "git_url": "https://github.com/jarviscanada/jarvis_profile_builder",
       "name": "Assessing the Feasibility of USA and Canada's Goal on Transitioning to Electric Vehicles (2022)"
     },
     {
       "description": "Used R and RStudio to conduct exploratory data analysis and hypothesis testing on Canadian Internet Use Survey, explored the demographic and behavior of former Internet users, and published report with R Markdown.",
-      "git_url": null,
       "name": "Analysis of Internet Past Use in Canada (2022)"
     }
   ],
@@ -33,6 +31,11 @@
       "description": "Orchestrated the deployment of CentOS-based virtual machines on Google Cloud Platform for Linux Cluster Monitoring App. Set up GitHub repository, fostering efficient team collaboration and version control. Utilized Docker to manage and deploy a PostgreSQL database, optimizing resource utilization. Designed and implemented a relational database to store hardware specifications and usage metrics. Automated data collection process from each Linux node. Conducted thorough testing of the application and scripts to ensure robust functionality. Created a diagram of the cluster architecture using draw.io, enhancing communication and comprehension of the system's structure.",
       "git_url": "/linux_sql",
       "name": "Linux Cluster Resource Monitoring App"
+    },
+    {
+      "description": "Develop a PostgreSQL relational database for a newly established city club to store and manage data about its business elements including members, facilities, and booking information. Used DDL to create 3 tables and specify their connections. Tested CRUD operations to validate that the database functions according to specified requirements. Ran testing SQL queries to ensure the accuracy and consistency of data stored in the database.",
+      "git_url": "/sql",
+      "name": "RDBMS and SQL"
     }
   ],
   "name": "Halley Le",

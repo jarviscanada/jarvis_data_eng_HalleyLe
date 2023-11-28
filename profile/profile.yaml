@@ -69,13 +69,13 @@ professional_experience:
     duration: "2023-present"
     # The project description must start with an action verb (https://bit.ly/3guO98u)
     # Avoid the following terms: training, learning, etc. Instead, you should focus on the work, such as worked on XYY; Wrote ABC document; Analyzed QWE project;
-    description: "Donec mattis sed justo et sagittis. Vestibulum lacinia nulla ipsum. Curabitur imperdiet nibh vitae leo lacinia laoreet. Nullam accumsan, lectus ut maximus ultricies, augue justo egestas mi, vel bibendum felis."
+    description: "Collaborate with stakeholders, including business clients, managers, and IT teams, to elicit detailed business requirements. Create and maintain comprehensive documentation, including business requirements, system specifications, process flows, and user manuals. Design application and data system solutions that address business needs such as Linux Cluster Monitoring App and PostgreSQL database. Utilize scripting skills and IDE software to develop code efficiently, validate and automate scripts."
   - title: "Research Analyst"
     company: "Buzzmetrics"
     duration: "2019-2021"
     description: "Oversaw full project lifecycle, utilizing Jira for create and update project documents including scope or work, deliverables, quotations, team involved, and contract status. Used Excel to analyze up to 100,000 social buzz per report, extracting insights, evaluating marketing performance, and delivering strategic recommendations. Generated 40+ brand tracking and campaign tracking reports using PowerPoint and Canva. Led a data team of 6 Content Analysts to set up process of cleansing, classifying and labeling data, creating timeline and schedule to keep track of the progress, achieving 100% on-time report delivery. Designed and maintained an interactive SocialHeat dashboard, enabling real-time tracking of client social media activities. Rapidly addressed client inquiries, creating urgency-based technical issue tickets for swift resolution."
 
-#List of edcuation
+#List of educuation
 education:
   - school_name: "University of Windsor"
     duration: "2021-2023"
